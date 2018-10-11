@@ -1,0 +1,8 @@
+p {
+  font-style: italic;
+}
+
+.col-md-6 p {
+  text-align: justify;
+  color: #404040;
+}
